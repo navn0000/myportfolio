@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Khojki:wght@700&display=swap');
+
+.myContainer{
+    text-align: center;
+}
+.myContainer h4{
+    font-family: 'Noto Serif Khojki', serif;
+    margin-top: 20px;
+}
+.myContainer p{
+    font-family: 'Noto Serif Khojki', serif;
+    margin-top: 20px;
+}
+.myContainer h3{
+    color: orangered;
+    font-size: 18px;
+    cursor: pointer;
+}
+.containerOuter{
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 400px;
+    padding: 30px;
+}
+.containerOuter h1{
+    padding-top: 20px;
+    font-family: 'Noto Serif Khojki', serif;
+
+}
+.cardOuter{
+    background-color: transparent;
+}
