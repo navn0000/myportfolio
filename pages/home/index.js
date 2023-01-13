@@ -1,6 +1,6 @@
 import React from 'react'
 import { Container } from 'react-bootstrap'
-import styles from '../../styles/home.module.css'
+// import styles from '../../styles/home.module.css'
 import { AiFillCaretDown } from 'react-icons/ai'; 
 
 function HomePage() {
